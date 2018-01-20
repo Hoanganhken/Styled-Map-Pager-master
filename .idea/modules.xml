@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Styled-Map-Pager-master.iml" filepath="$PROJECT_DIR$/Styled-Map-Pager-master.iml" />
+      <module fileurl="file://D:\Styled-Map-Pager-master\StyledMapWithPager.iml" filepath="D:\Styled-Map-Pager-master\StyledMapWithPager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Styled-Map-Pager-master\app\app.iml" filepath="D:\Styled-Map-Pager-master\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customstyledmap/customstyledmap.iml" filepath="$PROJECT_DIR$/customstyledmap/customstyledmap.iml" />
+      <module fileurl="file://D:\Styled-Map-Pager-master\customstyledmap\customstyledmap.iml" filepath="D:\Styled-Map-Pager-master\customstyledmap\customstyledmap.iml" />
+    </modules>
+  </component>
+</project>
